@@ -21,3 +21,6 @@ Before running the script, open the Python file and replace the placeholder emai
 sender_email = "your_dummy_email@gmail.com"
 app_password = "your_16_letter_app_password"
 receiver_email = "your_real_email@gmail.com"
+```
+
+<img width="824" height="220" alt="ecommerce-data-pipeline-price_tracker" src="https://github.com/user-attachments/assets/73618f5c-7497-41b7-b8cc-52bfc6793d9c" />
